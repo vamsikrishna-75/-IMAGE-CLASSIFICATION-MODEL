@@ -1,6 +1,6 @@
 # IMAGE-CLASSIFICATION-MODEL
 
-*COMPANY*: COOTECH IT SOLUTIONS 
+*COMPANY*: CODTECH IT SOLUTIONS 
 
 *NAME*:NAKKA VAMSI KRISHNA 
 
@@ -12,7 +12,7 @@
 
 *MENTOR*: Neela Santhosh Kumar 
 
-#DESCRIOTON
+#DESCRIPTON
 
 An Image Classification Model is a type of machine learning system that automatically assigns a label or category to an image based on its visual content. It is a fundamental task in computer vision and is widely used in applications such as object recognition, medical image analysis, facial recognition, and autonomous vehicles.
 
